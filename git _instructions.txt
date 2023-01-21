@@ -1,0 +1,10 @@
+# Before starting dev work
+Open GIT bash
+cd Documents\Development\100-Days-Of-Code\kleeburg
+git pull
+
+# After dev work
+git add .
+git status
+git commit -m "INSERT COMMIT MESSAGE"
+git push
